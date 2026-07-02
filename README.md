@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kengyru &label=Profile views&color=0e75b6&style=flat" alt="kengyru " /> </p>
 
-- 🔭 I'm currently working on **Building AI-powered backend systems and multi-agent workflows**
+- I'm currently working on **Building AI-powered backend systems and multi-agent workflows**
 
-- 🌱 I'm currently learning **Advanced RAG architectures, LLM fine-tuning, and vector databases**
+- I'm currently learning **Advanced RAG architectures, LLM fine-tuning, and vector databases**
 
-- 👯 I'm looking to collaborate on **Open-source AI tooling, LLM integrations, and scalable API design**
+- I'm looking to collaborate on **Open-source AI tooling, LLM integrations, and scalable API design**
 
-- 🤝 I'm looking for help with **Optimizing LLM inference costs and advanced RAG strategies**
+- I'm looking for help with **Optimizing LLM inference costs and advanced RAG strategies**
 
-- 💬 Ask me about **Backend architecture, API design, and AI agent integration**
+- Ask me about **Backend architecture, API design, and AI agent integration**
 
-- 📫 How to reach me **tpopov040@gmail.com**
+- How to reach me **tpopov040@gmail.com**
 
 - ⚡ Fun fact **Моя ИИ-модель отлично работает на локальной видеокарте, но, пожалуйста, не спрашивайте про продакшн.
 **
